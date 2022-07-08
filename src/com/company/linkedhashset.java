@@ -7,7 +7,6 @@ import java.util.LinkedHashSet;
 // Insertion order is  Preserved in HashSet
 // It will accept the Heterogeneous values (string, int, null together)
 
-
 public class linkedhashset {
 
     public static void main(String[] args) {
