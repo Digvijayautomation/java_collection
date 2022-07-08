@@ -11,11 +11,16 @@ public class hashset {
     public static void main(String[] args) {
          HashSet h=new HashSet();
 
-         h.add("A");
-         h.add("B");
-         h.add(10);
-         h.add("B");
+         h.add("D");
+         h.add("i");
+         h.add("g");
+         h.add("v");
+         h.add("i");
+         h.add("j");
+         h.add("a");
+         h.add("y");
          h.add(null);
+         h.add("1992");
 
 
         System.out.println(h);

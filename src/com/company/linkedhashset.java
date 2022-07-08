@@ -14,11 +14,16 @@ public class linkedhashset {
 
             LinkedHashSet lh=new LinkedHashSet();
 
-        lh.add("A");
-        lh.add("B");
-        lh.add(10);
-        lh.add("B");
+        lh.add("D");
+        lh.add("i");
+        lh.add("g");
+        lh.add("v");
+        lh.add("i");
+        lh.add("j");
+        lh.add("a");
+        lh.add("y");
         lh.add(null);
+        lh.add("1992");
 
 
             System.out.println(lh);
