@@ -1,10 +1,10 @@
-package com.company;
+package Set_Collections;
 
 import java.util.LinkedHashSet;
 
-// HashSet will not accept the duplicate values
-// HashSet will accept null values
-// Insertion order is  Preserved in HashSet
+// linkedHashSet will not accept the duplicate values
+// linkedHashSet will accept null values
+// Insertion order is  Preserved in linkedHashSet
 // It will accept the Heterogeneous values (string, int, null together)
 
 public class linkedhashset {

@@ -1,4 +1,4 @@
-package com.company;
+package Set_Collections;
 
 import java.util.HashSet;
 // HashSet will not accept the duplicate values
