@@ -1,4 +1,4 @@
-package Array_collections;
+package List_collections;
 
 import java.util.ArrayList;
 
@@ -6,9 +6,9 @@ public class arraylist {
 
     // arraylist will  accept the duplicate values
 // arraylist will accept null values
-// Insertion order is  Preserved in linkedHashSet
+// Insertion order is  Preserved in arraylist
 // It will accept the Heterogeneous values (string, int, null together)
-
+// Best choice to use when our frequent operation is retrieval of data
 
     public static void main(String[] args) {
 
