@@ -26,7 +26,7 @@ public class linked_list {
         Llist.add(null);
         Llist.add(null);
 
-        System.out.println(Llist);
+        System.out.println("Initially LinkedList "+Llist);
 
         Llist.set(1,"Tukaram");
         System.out.println("LinkedList after replacing object at 1st Index"+Llist);
