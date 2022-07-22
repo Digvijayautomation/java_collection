@@ -8,6 +8,8 @@ import java.util.TreeSet;
 // It will accept only Homogeneous values (only string, or only int)
 
 // SortedSet also have some extra methods like first(), last(), headset(),tailset();
+// Default sorting order for numbers is smallest to largest and for char it is alphabatically
+
 public class sorted_set {
 
     public static void main(String[] args) {
