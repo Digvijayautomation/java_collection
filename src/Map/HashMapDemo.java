@@ -3,7 +3,7 @@ package Map;
 import java.util.HashMap;
 
 public class HashMapDemo {
-    // HashMap will not accept the duplicate values for key but it can accept for value
+// HashMap will not accept the duplicate values for key but it can accept for value
 // HashSet will accept null for values
 // Insertion order is not Preserved in HashSet
 // It will accept the Heterogeneous values (string, int, null together)
